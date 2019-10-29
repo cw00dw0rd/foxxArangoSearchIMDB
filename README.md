@@ -6,4 +6,4 @@ Very small Foxx microservice built for searching the imdb dataset using ArangoSe
 - Install via Services tab in the ArangoDB WebUI
 - Assumes imdb dataset loaded
   - Sets up empty imdb_vertices collection (if non-existent)
-  - Creates view with necessary links
+  - Creates view, named imdbView, with necessary links
